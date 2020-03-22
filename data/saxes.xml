@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf8"?>
+<tmx version="1.4">
+  <header
+  creationtool="xyztool"
+  creationtoolversion="1.01-023"
+  datatype="plaintext"
+  segtype="sentence"
+  adminlang="en-us"
+  srclang="en"
+  o-tmf="abctransmem"
+  creationdate="20020101t163812z"
+  creationid="thomasj"
+  changedate="20020413t023401z"
+  changeid="amity"
+  o-encoding="iso-8859-1"
+  >
+  </header>
+<body>
+  <tu tuid="1" datatype="Text" usagecount="2" lastusagedate="19970314T023401Z">
+   <note >Text of a note at the TU level.</note>
+   <prop type="x-Domain">Computing</prop>
+   <prop type="x-Project">Pægasus</prop>
+   <tuv xml:lang="EN" creationdate="19970212T153400Z" creationid="BobW">
+    <seg >data (with a &lt;&gt;non-standard character: ).</seg>
+   </tuv>
+   <tuv xml:lang="FR-CA" creationdate="19970309T021145Z" creationid="BobW" changedate="19970314T023401Z" changeid="ManonD">
+    <prop type="Origin">MT</prop>
+    <seg >données (avec un caractère non standard: ).</seg>
+   </tuv>
+  </tu>
+  <tu tuid="2" srclang="*all*">
+   <prop type="Domain">Cooking&amp;</prop>
+   <tuv xml:lang="EN">
+    <seg >menu</seg>
+   </tuv>
+   <tuv xml:lang="FR-CA">
+    <seg >menu</seg>
+   </tuv>
+   <tuv xml:lang="FR-FR">
+    <seg >menu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="3" datatype="Text" usagecount="2" lastusagedate="19970314T023401Z">
+   <note >Text of a note at the TU level.</note>
+   <prop type="x-Domain">Computing</prop>
+   <prop type="x-Project">Pægasus</prop>
+   <tuv xml:lang="EN" creationdate="19970212T153400Z" creationid="BobW">
+    <seg >xxxdata (with a non-standard character: ).</seg>
+   </tuv>
+   <tuv xml:lang="FR-CA" creationdate="19970309T021145Z" creationid="BobW" changedate="19970314T023401Z" changeid="ManonD">
+    <prop type="Origin">MT</prop>
+    <seg >xxxonnées (avec un caractère non standard: ).</seg>
+   </tuv>
+  </tu>
+  <tu tuid="4" srclang="*all*">
+   <prop type="Domain">Cooking</prop>
+   <tuv xml:lang="EN">
+    <seg >yyymenu</seg>
+   </tuv>
+   <tuv xml:lang="FR-CA">
+    <seg >yyymenu</seg>
+   </tuv>
+   <tuv xml:lang="FR-FR">
+    <seg >yyymenu</seg>
+   </tuv>
+  </tu>
+</body>
+</tmx>
